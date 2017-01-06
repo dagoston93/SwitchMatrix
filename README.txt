@@ -65,9 +65,6 @@ Switch matrix library
  it contains two byte type values: row, col, which are the coloumn and row of the switches
  that have been flipped, and a SwitchState type which is the new state of the switch
 
- description of file:
-
- This file is the header file of Switch Matrix library.
 
  license:
 
