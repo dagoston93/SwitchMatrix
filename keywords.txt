@@ -1,0 +1,17 @@
+# SwitchMatrix Library data types
+SwitchState	KEYWORD1
+Switch	KEYWORD1
+STATUS	KEYWORD1
+SwitchMatrix	KEYWORD1
+
+# SwitchMatrix constants
+FALSE	LITERAL1
+TRUE	LITERAL1
+DEBOUNCE	LITERAL1
+NONSET	LITERAL1
+
+# SwitchMatrix methods & functions
+Scan	KEYWORD2
+GetSwitchState	KEYWORD2
+GetAllSwitchStates	KEYWORD2
+AddEventListener	KEYWORD2
